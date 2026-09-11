@@ -129,7 +129,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Your level <strong>must</strong> be under 30 seconds.
+                        You must be apart of the discord server to vote on placements
                     </p>
                     <p>
                         Level must be harder than the level at the lowest spot on the list.
@@ -138,28 +138,13 @@ export default {
                         No inappropriate levels, as this includes NSFW levels/videos.
                     </p>
                     <p>
-                       Levels verified/beat with a cps cap will be placed separately.
+                       Your recording must include a cheat indicator if you dont have clicks, rule does not apply to dexter
                     </p>
                     <p>
-                        Levels verified/beat with a method outside alternating will be placed separately.
+                        Levels have to be over 29 seconds
                     </p>
                     <p>
                         Secret ways are <strong>absolutely</strong> prohibited.
-                    </p>
-                    <p>
-                        Levels have to be 30fps Minimum cps is 10.
-                    </p>
-                    <p>
-                        The difficulty must be spam.
-                    </p>
-                    <p>
-                        Noclip is allowed as long as you have 0 deaths or 100% Accuracy.
-                    </p>
-                    <p>
-                        Clicks must be heard. Click Sounds aren't allowed, or medal overlay is allowed as well if u dont have a mic.
-                    </p>
-                    <p>
-                        You have to be on the latest version of Geometry Dash in order to get your completions/verifications accepted.
                     </p>
                       <p>
                         When submitting if you submit more than one level at a time it is prefered that you upload in a compilation
