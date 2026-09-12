@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Length</div>
+                            <div class="type-title-sm">Actual Position</div>
                             <p>{{ level.enjoyment || 'None (0)' }}</p>
                         </li>
                     </ul>
@@ -78,9 +78,9 @@ export default {
                     </table>
                 </div>
                 <div v-else-if="!selected" class="level" style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center;">
-                    <h2>Welcome to the 30 FPS Spam Challenge List!</h2>
-                    <p>Click the levels on the left side to see information about them!</p>
-                    <p>For more information about the submission rules check the right side!</p>
+                    <h2>Welcome to the Community FPS Spam Challenge List!</h2>
+                    <p>This is a list where you can vote on placements of levels!</p>
+                    <p>Join the discord to vote!</p>
                     <h2>le daily</h2>
                     <p>{{ leDaily[0][0].name }} ({{ leDaily[0][0].id }})</p>
                     <button class="btn" @click="selected = Math.ceil(Math.random() * list.length)">
