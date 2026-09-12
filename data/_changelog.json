@@ -1,18 +1,19 @@
 [
      {
-          "action": "a",
-        "levelname": "Artemis 13",
-        "position": "1",
-		"above": "nothing",
-		"below": "nothing",
-		"date": "September 12th"
-    },
-    {
+
           "action": "a",
         "levelname": "Society",
         "position": "2",
 		"above": "nothing",
 		"below": "Artemis 13",
+		"date": "September 12th"
+    },
+    {
+          "action": "a",
+        "levelname": "Artemis 13",
+        "position": "1",
+		"above": "nothing",
+		"below": "nothing",
 		"date": "September 12th"
     }
 ]
